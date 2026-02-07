@@ -238,13 +238,9 @@ Because repository modules vary and each `pom.xml` / `package.json` may define c
 3. To inspect Java source and understand endpoints or CLI options:
    - Browse `Codes/*/src/main/java/in/parthi/...` and open classes to find controllers, services, or main application classes.
 
-## Screenshots or output section (placeholder)
+## Yotube tutorial
 
-Add screenshots, animated GIFs, or sample outputs here to show the running app, reports, dashboards, or CLI output.
-
-- Screenshot: Dashboard (placeholder)
-- Screenshot: Inventory list (placeholder)
-- Screenshot: Sales invoice generation (placeholder)
+[LINK]
 
 Place images in a `docs/` or `assets/` directory and reference them like:
 `![Dashboard](docs/dashboard.png)`
